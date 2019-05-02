@@ -1,0 +1,11 @@
+E:\CSharpWorkSpace\VS2017Space\CICD_Space\magnificence-pro001\magnificence-pro001\bin\Debug\netcoreapp2.1\magnificence-pro001.deps.json
+E:\CSharpWorkSpace\VS2017Space\CICD_Space\magnificence-pro001\magnificence-pro001\bin\Debug\netcoreapp2.1\magnificence-pro001.runtimeconfig.json
+E:\CSharpWorkSpace\VS2017Space\CICD_Space\magnificence-pro001\magnificence-pro001\bin\Debug\netcoreapp2.1\magnificence-pro001.runtimeconfig.dev.json
+E:\CSharpWorkSpace\VS2017Space\CICD_Space\magnificence-pro001\magnificence-pro001\bin\Debug\netcoreapp2.1\magnificence-pro001.dll
+E:\CSharpWorkSpace\VS2017Space\CICD_Space\magnificence-pro001\magnificence-pro001\bin\Debug\netcoreapp2.1\magnificence-pro001.pdb
+E:\CSharpWorkSpace\VS2017Space\CICD_Space\magnificence-pro001\magnificence-pro001\obj\Debug\netcoreapp2.1\magnificence-pro001.csprojAssemblyReference.cache
+E:\CSharpWorkSpace\VS2017Space\CICD_Space\magnificence-pro001\magnificence-pro001\obj\Debug\netcoreapp2.1\magnificence-pro001.csproj.CoreCompileInputs.cache
+E:\CSharpWorkSpace\VS2017Space\CICD_Space\magnificence-pro001\magnificence-pro001\obj\Debug\netcoreapp2.1\magnificence-pro001.AssemblyInfoInputs.cache
+E:\CSharpWorkSpace\VS2017Space\CICD_Space\magnificence-pro001\magnificence-pro001\obj\Debug\netcoreapp2.1\magnificence-pro001.AssemblyInfo.cs
+E:\CSharpWorkSpace\VS2017Space\CICD_Space\magnificence-pro001\magnificence-pro001\obj\Debug\netcoreapp2.1\magnificence-pro001.dll
+E:\CSharpWorkSpace\VS2017Space\CICD_Space\magnificence-pro001\magnificence-pro001\obj\Debug\netcoreapp2.1\magnificence-pro001.pdb
