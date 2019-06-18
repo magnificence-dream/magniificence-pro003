@@ -7,5 +7,10 @@ pipeline {
         echo 'see me'
       }
     }
+    stage('build') {
+      steps {
+        sh 'docker --version'
+      }
+    }
   }
 }
